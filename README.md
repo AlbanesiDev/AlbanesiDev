@@ -1,3 +1,5 @@
+<h1 align="center">Hey there 👋</h1>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/joaquin-albanesi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -18,68 +20,33 @@
   <a href="https://www.twitch.tv/albanesidev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
+  
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
+<hr>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+<p align="left">I'm joaquin from Buenos Aires, Argentina, a front-end developer specialized in the Angular framework and its latest versions. I like to make visually complex projects!<br></p>
 
-<p align="left">I'm joaquin from Buenos Aires, Argentina, a front-end developer specialized in the Angular framework and its latest versions. I like to make visually complex projects!<br><br>- 📚 I'm currently learning Asp .Net Core and Sql Server.</p>
+<hr>
 
-###
+<h3 align="left">🛠 Language and tools :</h3>
 
-<h3 align="left">🛠 Language and tools</h3>
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=angular,react,reactivex,tailwind,threejs,firebase,nodejs,express,vscode,visualstudio,figma,vercel,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,postman,bootstrap,cs,sass,js,ts,dotnet,mongodb&perline=)](https://skillicons.dev)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-###
+<hr>
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlbanesiDev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlbanesiDev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8&order=3" height="220" alt="streak graph" />
 </div>
 
-###
+<hr>
+
