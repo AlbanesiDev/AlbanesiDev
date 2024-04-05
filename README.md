@@ -41,12 +41,8 @@
 </div>
 
 <hr>
-
-<h3 align="left">🔥   My Stats :</h3>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlbanesiDev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8&order=3" height="220" alt="streak graph" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albanesidev&theme=github-dark-dimmed&date_format=j%20M%5B%20Y%5D&card_width=600" height="220" alt="GitHub Streak" /></a>
 </div>
-
 <hr>
 
