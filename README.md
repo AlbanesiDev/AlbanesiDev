@@ -13,13 +13,52 @@
 
 ```math
 \mmlToken{ms}[fontfamily="
+goombafont;
+color:black;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: fill;
+background-size: fill;
+width: 100vw;
+height: 100vh;
+opacity: 0.50;
+background: url('https://raw.githubusercontent.com/AlbanesiDev/AlbanesiDev/main/assets/1.webp');
+"]{}
+
+\mmlToken{ms}[fontfamily="
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: 999;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+backdrop-filter: saturate(2) blur(15px) brightness(0.5) opacity(1.2);
+mask-image: linear-gradient(transparent 65%, white 94%);
+background: linear-gradient(45deg, black, transparent);
+"]{}
+
+\mmlToken{ms}[fontfamily="
 madebycubiquwu;
 color: transparent;
 pointer-events:none;
 z-index: -10;
 position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+z-index: 99;
+"]{}
+
+\mmlToken{ms}[fontfamily="
+font-family: madebycubiquwu;
+color:transparent;
+pointer-events: none;
+position: fixed;
 inset: 0;
-opacity: 1;
-background: url('https://github.com/AlbanesiDev/AlbanesiDev/blob/main/assets/background.jpg?raw=true');
+backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
 "]{}
 ```
