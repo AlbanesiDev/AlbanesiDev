@@ -24,7 +24,7 @@ background-size: fill;
 width: 100vw;
 height: 100vh;
 opacity: 0.50;
-background: url('https://raw.githubusercontent.com/AlbanesiDev/AlbanesiDev/main/assets/1.webp');
+background: url('https://github.com/AlbanesiDev/AlbanesiDev/blob/main/assets/konosuba.png?raw=true');
 "]{}
 
 \mmlToken{ms}[fontfamily="
