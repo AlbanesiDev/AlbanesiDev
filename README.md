@@ -23,7 +23,7 @@ object-fit: fill;
 background-size: fill;
 width: 100vw;
 height: 100vh;
-opacity: 0.50;
+opacity: 0.75;
 background: url('https://github.com/AlbanesiDev/AlbanesiDev/blob/main/assets/konosuba.png?raw=true');
 "]{}
 
@@ -36,7 +36,7 @@ position: fixed;
 inset:0;
 object-fit: cover;
 background-size: cover;
-backdrop-filter: saturate(2) blur(15px) brightness(0.5) opacity(1.2);
+backdrop-filter: saturate(1.5) blur(8px) brightness(0.5) opacity(1.2);
 mask-image: linear-gradient(transparent 65%, white 94%);
 background: linear-gradient(45deg, black, transparent);
 "]{}
@@ -59,6 +59,6 @@ color:transparent;
 pointer-events: none;
 position: fixed;
 inset: 0;
-backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
+backdrop-filter: saturate(1.5) blur(8px) brightness(2) opacity(0.2);
 "]{}
 ```
