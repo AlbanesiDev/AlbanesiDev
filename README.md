@@ -9,8 +9,3 @@
   [![My Skills](https://skillicons.dev/icons?i=git,postman,bootstrap,cs,sass,js,ts,dotnet,mongodb&perline=)](https://skillicons.dev)
 
 </div>
-
-
-
-```math
-\ce{$\unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.75; background: url('https://raw.githubusercontent.com/IPdotSetAF/NeoMatrix/master/images/preview3.gif');]{x0000}$}https://github.com/
