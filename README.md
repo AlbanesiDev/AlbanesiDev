@@ -9,3 +9,17 @@
   [![My Skills](https://skillicons.dev/icons?i=git,postman,bootstrap,cs,sass,js,ts,dotnet,mongodb&perline=)](https://skillicons.dev)
 
 </div>
+
+
+```math
+\mmlToken{ms}[fontfamily="
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: -10;
+position: fixed;
+inset: 0;
+opacity: 1;
+background: url('https://github.com/AlbanesiDev/AlbanesiDev/blob/main/assets/background.jpg?raw=true');
+"]{}
+```
